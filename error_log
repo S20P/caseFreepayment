@@ -1,0 +1,1 @@
+[08-Oct-2023 09:22:26 Africa/Abidjan] PHP Deprecated:  Optional parameter $type declared before required parameter $request is implicitly treated as a required parameter in /home4/manny9ra/app.futureinvestor.in/app/Http/Controllers/Admin/VirtualCardController.php on line 326
